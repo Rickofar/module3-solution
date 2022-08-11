@@ -1,11 +1,12 @@
 body{
   font-family: tahoma;
+  background-color: deeppink;
 }
 
 /** Header **/
 
 #header-nav{
-  background-color: grey;
+  background-color: pink;
 }
 
 .navbar-brand h1 {
@@ -37,7 +38,7 @@ body{
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar{
-  border: 2px solid black;
+  border: 2px solid red;
   background-color: transparent;
 }
 
@@ -69,7 +70,7 @@ body{
 }
 
 #menu-info{
-  background-color: grey;
+  background-color: pink;
 }
 
 #menu-info span{
